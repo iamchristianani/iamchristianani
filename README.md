@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![christian github artwork](https://user-images.githubusercontent.com/116313214/207261241-fb442592-b4b2-4555-9f98-cf7b09047b99.png)
+![christian github artwork](https://user-images.githubusercontent.com/116313214/207283337-e0cd4d88-6b8b-4d49-8e58-11eaea4aa53e.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchristianani&label=Profile%20views&color=0e75b6&style=flat" alt="iamchristianani" /> </p>
 
