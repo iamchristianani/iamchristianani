@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=iamchristianani&theme=onedark" alt="iamchristianani" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=iamchristianani&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&count_private=true" alt="iamchristianani" /></p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamchristianani&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&locale=en&layout=compact" alt="iamchristianani" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamchristianani&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&locale=en&layout=compact" alt="iamchristianani" /></p>
