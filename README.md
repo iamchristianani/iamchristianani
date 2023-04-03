@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A dedicated Front-end developer from Abuja, Nigeria</h3>
+<h3 align="center">A dedicated Front-end developer from Nigeria</h3>
 
 <!--
 **iamchristianani/iamchristianani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m **currently available for hire**.
 
-- 🔭 I’m currently working with, **Es6 and webpack**
+- 🔭 I’m currently working with, **React and Ruby on Rails**
 
 - 📫 You can shoot me an email at **iamchristianani@gmail.com** I'll try to respond as soon as I can.
 
