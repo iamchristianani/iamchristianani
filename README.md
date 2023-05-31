@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m **currently available for hire**.
 
-- 🔭 I’m currently working with, **React and Ruby on Rails**
+- 🔭 I’m currently working with **React and Ruby on Rails**
 
 - 📫 You can shoot me an email at **iamchristianani@gmail.com** I'll try to respond as soon as I can.
 
