@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A dedicated Full-stack web developer from Nigeria</h3>
+<h3 align="center">A dedicated Full-stack web developer</h3>
 
 <!--
 **iamchristianani/iamchristianani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
